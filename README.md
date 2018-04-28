@@ -21,7 +21,7 @@ In your app level build.gradle :
 
 ```java
 dependencies {
-    compile 'com.github.pchmn:RxSocialAuth:2.0.1-beta'
+    implementation 'com.github.pchmn:RxSocialAuth:v2.0.1-beta'
 }
 ```
 
